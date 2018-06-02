@@ -1,0 +1,6 @@
+*.pyc
+*~
+nohup.out
+__pycache__
+testbot_clientcred.secret
+testbot_usercred.secret
